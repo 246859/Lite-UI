@@ -56,7 +56,7 @@ import {FormInstance} from "element-plus";
 import {LoginUser} from "@/entity/auth/AuthEntity";
 import {passwordLoginRules} from "@/entity/auth/AuthRules";
 import {AuthLang} from "@/lang/auth/AuthLang";
-import {Common, CommonLang} from "@/lang/Common";
+import {CommonLang} from "@/lang/Common";
 
 export default {
   name: "LoginPage",

@@ -53,7 +53,7 @@ import {Message} from "@/utils/Message";
 import {MailStore} from "@/store/MailStore";
 import {storeToRefs} from "pinia";
 import {AuthLang} from "@/lang/auth/AuthLang";
-import {Common, CommonLang} from "@/lang/Common";
+import {CommonLang} from "@/lang/Common";
 
 export default {
   name: "ChangePassword",
